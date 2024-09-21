@@ -1,0 +1,168 @@
+.left-side {
+  width: 50%;
+  /* background-color: red; */
+}
+
+.nav { 
+  margin: 60px 80px;
+  /* background-color: red; */
+}
+
+.nav .name {  
+  font-family: 'Inter';
+  font-size: 28px;
+  font-weight: 500;
+  color: rgb(27, 166, 252);  
+  margin-bottom: 10px;
+  /* background-color: red; */
+}
+
+.nav-links {
+  gap: 20px;
+  display: flex;
+  /* background-color: blue; */
+}
+
+.nav-links a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: rgba(198, 198, 198, 0.998);
+  font-style: italic;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.vertical-line {
+  width: 100%px; /* Thickness of the line */
+  height: 1px; /* Height of the line */
+  background-color: rgb(220, 220, 220); /* Color of the line */
+}
+
+.about {
+  margin: 30px 0px;
+}
+
+.about h1 {
+  text-decoration: none;
+  font-family: 'Inter';
+  font-size: 20px;
+  font-weight: 300;
+  color: rgb(255, 255, 255);
+}
+
+.projects-container {
+  margin: 60px 80px;
+}
+
+.project-1 .project-title {
+  font-size: 20px;
+  font-family: 'Inter';
+  text-decoration: none;
+  color: rgb(245, 245, 245);
+  padding: 0;
+}
+
+.project-1 .project-title:hover {
+  text-decoration: underline;
+  /* color: rgb(178, 210, 247); */
+}
+
+.project-1 p {
+  color: rgb(158, 158, 158);
+  margin: 0;
+  padding: 0;
+}
+
+.project-1 {
+  margin-bottom: 30px;
+}
+
+.project-title span {
+  color: rgb(158, 158, 158);
+  font-size: 16px;
+  font-style: italic;
+}
+
+.wired-container {
+  display: flex;
+  gap: 10px;
+}
+
+.wired-title {
+  width: 27%;
+  margin: 50px 70px;
+  /* background-color: blue; */
+}
+
+.wired-title h1 {
+  font-size: 2rem;
+  margin: 0;
+  padding: 0;
+  /* background-color: red; */
+}
+
+.wired-title p {
+  margin: 0;
+  padding: 0;
+  font-style: italic;
+  color: rgb(158, 158, 158);
+  /* background-color: blue; */
+}
+
+.wired-content {
+  width: 58%;
+  margin-top: 60px;
+  height: auto;
+  /* background-color: red; */
+}
+
+.wired-photo img {
+  width: 100%;
+  background-color: rgb(41, 41, 41);
+  padding: 1px 1px;
+  border-radius: 10px;
+  /* margin-right: 60px; */
+}
+
+.wired-title .vertical-line {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.wired-links {
+  display: flex;
+  gap: 20px;
+}
+
+.wired-context {
+  margin-top: 30px;
+}
+
+.wired-context h1 {
+  font-size: 20px;
+  font-family: 'Inter';
+  margin: 0;
+  padding: 0;
+  margin-top: 30px;
+  text-decoration: none;
+  color: rgb(27, 166, 252);  
+}
+
+.wired-context p {
+  font-size: 16px;
+  margin: 5px;
+  padding: 0;
+}
+
+.wired-title a {
+  padding: 0;
+  margin-top: 20px;
+  text-decoration: underline;
+  color: rgba(198, 198, 198, 0.998);
+  font-style: italic;
+}
+
+
