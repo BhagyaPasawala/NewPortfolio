@@ -14,7 +14,7 @@ const Navbar = () => {
             </div>
             <div className='about'>
               <h1>
-              I am a software developer with over 4 years of experience 
+              I am a software developer with over 3 years of experience 
               in design, web development, <br /> and 3D. I focus on building projects 
               and video games that inspire me. Here are some <br />of the projects and video games
               I have worked on.
