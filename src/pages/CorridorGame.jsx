@@ -36,8 +36,8 @@ export default function CorridorGame() {
                             </p>
                             <br />
                         <div className="wired-photo">
-                        <img src="/corridor.png" alt="" />
-                    </div>
+                            <img src="/Corridor.png" alt="" />
+                        </div>
                     </div>
                 </div>
             </div>
