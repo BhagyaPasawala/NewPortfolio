@@ -12,11 +12,16 @@ import CorridorGame from './pages/CorridorGame.jsx'
 import WeightFate from './pages/WeightFate.jsx'
 import Threedee from './pages/3dShenanigans.jsx'
 import Branding from './pages/Branding.jsx'
+import StinkedIn from './pages/StinkedIn.jsx'
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+  },
+  {
+    path: "/StinkedIn",
+    element: <StinkedIn />,
   },
   {
     path: "/Wired",
