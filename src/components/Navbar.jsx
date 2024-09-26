@@ -16,7 +16,7 @@ const Navbar = () => {
               <h1>
               Self-taught software developer with over 3 years of experience 
               in design, web development, <br /> and 3D. I focus on building projects 
-              and video games that inspire me. Here are some <br />of the projects I have worked on.
+              and video games that inspire me. Here are some of the  <br /> projects I have worked on.
               </h1>
             </div>
         </div>
