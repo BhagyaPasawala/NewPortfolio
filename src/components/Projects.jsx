@@ -19,7 +19,7 @@ const Projects = () => {
         </div>
         <div className='project-1'>
           <Link to={"/StinkedIn"} className='project-title' onClick={scrollToTop}>
-            StinkedIn <span>{`(Web App)`}</span>
+            StinkedIn <span>{`(Web App) (On-Going)`}</span>
           </Link>
           <p>
             Job portal parody
