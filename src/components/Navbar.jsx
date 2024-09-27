@@ -9,7 +9,7 @@ const Navbar = () => {
                 <a className='contact' href="https://www.linkedin.com/in/bhagya-pasawala-a66251188/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 <a className='contact' href="https://github.com/BhagyaPasawala" target="_blank" rel="noopener noreferrer">Github</a>
                 <a className='contact' href="https://www.behance.net/bhagyapasawala" target="_blank" rel="noopener noreferrer">Behance</a>
-                <a className='contact' href="/BhagyaPasawalaResume.pdf" target="_blank" rel="noopener noreferrer">Resume </a>
+                <a className='contact' href="/BhagyaResume.pdf" target="_blank" rel="noopener noreferrer">Resume </a>
                 <a className='contact' href="mailto:bhagya1710@gmail.com">Contact</a>
             </div>
             <div className='about'>
