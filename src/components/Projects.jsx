@@ -9,20 +9,20 @@ const Projects = () => {
   return (
     <div className='projects-container'>
       <div className='projects'>
-      <div className='project-1'>
-          <Link to={"/StinkedIn"} className='project-title' onClick={scrollToTop}>
-            StinkedIn <span>{`(Web App)`}</span>
-          </Link>
-          <p>
-            Job portal parody
-          </p>
-        </div>
         <div className='project-1'>
           <Link to={"/Wired"} className='project-title' onClick={scrollToTop}>
             Wired <span>{`(Web App)`}</span>
           </Link>
           <p>
             Productivity tool I built for myself using ReactJs.
+          </p>
+        </div>
+        <div className='project-1'>
+          <Link to={"/StinkedIn"} className='project-title' onClick={scrollToTop}>
+            StinkedIn <span>{`(Web App)`}</span>
+          </Link>
+          <p>
+            Job portal parody
           </p>
         </div>
         <div className='project-1'>
