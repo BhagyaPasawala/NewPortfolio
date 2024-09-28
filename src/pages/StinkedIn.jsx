@@ -12,7 +12,7 @@ export default function StinkedIn() {
                     <div className="vertical-line"></div>
                     <div className="wired-links">
                         <a href="https://github.com/BhagyaPasawala/Job-Postal-Parody" target="_blank" rel="noopener noreferrer">Github</a>
-                        <a href="https://stinkedin.vercel.app/" target="_blank" rel="noopener noreferrer">Visit Website</a>
+                        <a href="https://jobparody.vercel.app/" target="_blank" rel="noopener noreferrer">Visit Website</a>
                     </div>
                     
                 </div>
