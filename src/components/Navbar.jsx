@@ -16,7 +16,7 @@ const Navbar = () => {
               <h1>
               Front-end developer and designer with over 4 years of experience 
               in design, <br /> web development,  and 3D. I focus on building projects 
-              and video games that inspire me. Here are some of the  <br /> projects I have worked on.
+              and video games that <br /> inspire me. Here are some of the   projects I have worked on.
               </h1>
             </div>
         </div>
